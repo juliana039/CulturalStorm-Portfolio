@@ -10,7 +10,7 @@
 
 Diferente de fóruns online e redes sociais, o jogo cria um espaço interativo onde os participantes podem se conectar presencialmente, explorar novas culturas e fortalecer laços de amizade enquanto aprendem sobre diferentes tradições.
 
-Atualmente, estamos em processo de publicação do **Cultural Storm** na App Store.
+Disponível na App Store.
 
 ## 🎯 Por que escolher o Cultural Storm?
 ✅ **Explore novas culturas** em tempo real com outros estudantes.  
